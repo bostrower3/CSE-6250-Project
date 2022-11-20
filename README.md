@@ -15,3 +15,13 @@ Dependencies:
 - tensorflow==1.13.1
 - tflearn==0.5.0
 - tqdm==4.49.0
+
+
+Original Authors:
+- Hang Dong 
+- Víctor Suárez-Paniagua 
+- William Whiteley 
+- Honghan Wu
+
+Preprocessing author:
+- James Mullenbach
