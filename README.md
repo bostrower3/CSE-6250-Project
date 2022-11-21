@@ -1,7 +1,7 @@
 # CSE-6250-Project
 Project for CSE-6250
-bostrower3
-npatel484
+- bostrower3
+- npatel484
 
 Dependencies:
 
